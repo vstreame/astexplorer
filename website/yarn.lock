@@ -2309,6 +2309,11 @@ ast-types@0.9.6:
   resolved "https://registry.yarnpkg.com/ast-types/-/ast-types-0.9.6.tgz#102c9e9e9005d3e7e3829bf0c4fa24ee862ee9b9"
   integrity sha1-ECyenpAF0+fjgpvwxPok7oYu6bk=
 
+astexplorer-gleam@^0.21.0-rc1:
+  version "0.21.0-rc1"
+  resolved "https://registry.yarnpkg.com/astexplorer-gleam/-/astexplorer-gleam-0.21.0-rc1.tgz#828b88f4e978cc83d5ee96a720a30ef239d4d403"
+  integrity sha512-2HxuFRdN4BTyBxCjmUiasuE2FNl+gSZDlnV6I4mT1f3rpbkmUxEn2xw1KfDot9h/TWjFotzwb8ZnbEV7g0gc4w==
+
 astexplorer-go@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/astexplorer-go/-/astexplorer-go-1.0.0.tgz#b871657b1e84eecc8d8d4ea27a8da310fa8624dc"
